@@ -14,3 +14,7 @@ Again:
 -CHANGES you select the file you press + to stage it and then you write the commit message " 1st way repeat all steps"
 
 
+The 2nd way is to make changes, stage them (click the git branch) and use the commit All (Ammend). 
+It is like commit All but it has a little signature at the commit message.
+Beware when it does ammending it doesnt show the previous commit but it overwrites it. so The previous commit will disappeared from the  Timeline.
+
