@@ -1,6 +1,6 @@
 # Learning Git at VScode
 
-- second commit with the VS interface
+I write about the steps to write a code in Visual Studio use git in VScCode for version controll and connect it with GitHub. 
 I am trying to create a commit from the ...selecting commit then commitALL.
 Go to the message and write the "1st way" as a commit message
 Then hit the tick (the  v at git-start Git bar). This one way to create a commit
@@ -11,7 +11,7 @@ write message "repeat 1st way" where the message appears.
 Again:
 - SOURCE SONTROL  click ...commitAll
 -then modify the file and SAVE it, then Changes appear (underneeth source control)
--CHANGES you select the file you press + to stage it and then you write the commit message " 1st way repeat all steps"
+- CHANGES you select the file you press + to stage it and then you write the commit message " 1st way repeat all steps"
 
 
 The 2nd way is to make changes, stage them (click the git branch) and use the commit All (Ammend). 
