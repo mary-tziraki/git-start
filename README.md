@@ -11,3 +11,5 @@ Welcome to the workshop to practice with me in git and GitHub interaction!!
 Lets have fun !!
 
 I am having lots of fun!
+
+I have seen all the changes
