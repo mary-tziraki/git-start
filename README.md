@@ -9,3 +9,5 @@ Hi I'm Kiran I have cloned the directory in my computer and I'm ready to practic
 Welcome to the workshop to practice with me in git and GitHub interaction!!
 
 Lets have fun !!
+
+I am having lots of fun!
